@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Sanjaya Gajurel, Computational Scientiest, Case Western Reserve University, April 2015
+# Sanjaya Gajurel, Computational Scientiest, Case Western Reserve University, Cleveland, OH 44016 April 2015
 import sys
 import vtk
 import os
